@@ -1,0 +1,225 @@
+#1. first step is importing the dataset in mongo as database command for that
+C:\Program Files\MongoDB\Server\4.4\bin> mongoimport -d database2 -c scores --type csv --file cba_dataset.csv --headerline
+
+#2. next step is to start mongo shell
+C:\Program Files\MongoDB\Server\4.4\bin>mongo
+
+#3. checking whether we have the imported dataset as database in mongo
+> show dbs
+
+#4. now we will activate our database by
+> use database2
+
+#5. now we will check for collections 
+> show collections
+
+#6. checking the contents of database command as follows
+> db.scores.find().pretty()
+
+#7. performing aggregate operations
+
+#8. checking for gender number of genders 
+db.scores.aggregate([{$group: {_id: "$gender", result: {$sum: 1}}}])
+{ "_id" : "Female", "result" : 128 }
+{ "_id" : "Male", "result" : 142 }
+
+ db.scores.aggregate([{$group: {_id: "$profession", result: {$sum: 1}}}]
+
+... 
+
+... 
+
+> db.scores.aggregate([{$group: {_id: "$profession", result: {$sum: 1}}}])
+{ "_id" : "Teaching", "result" : 29 }
+{ "_id" : "Retired", "result" : 1 }
+{ "_id" : "Other", "result" : 2 }
+{ "_id" : "Doctor", "result" : 1 }
+{ "_id" : "IT", "result" : 21 }
+{ "_id" : "Commerce", "result" : 5 }
+{ "_id" : "Student", "result" : 125 }
+{ "_id" : "NoMInal Job", "result" : 4 }
+{ "_id" : "Management", "result" : 1 }
+{ "_id" : "Private sector", "result" : 1 }
+{ "_id" : "Consultant", "result" : 1 }
+{ "_id" : "Interior designer", "result" : 1 }
+{ "_id" : "Unemployed", "result" : 6 }
+{ "_id" : "Airline", "result" : 1 }
+{ "_id" : "Artist", "result" : 5 }
+{ "_id" : "Sportsman / athlete", "result" : 1 }
+{ "_id" : "Medical", "result" : 8 }
+{ "_id" : "Business", "result" : 10 }
+{ "_id" : "NA", "result" : 7 }
+{ "_id" : "HR", "result" : 1 }
+Type "it" for more
+
+> db.scores.aggregate([{$group: {_id: "$age_group", result: {$sum: 1}}}])
+{ "_id" : "25 - 30 years", "result" : 15 }
+{ "_id" : "50 - 60 years", "result" : 18 }
+{ "_id" : "30 - 35 years", "result" : 19 }
+{ "_id" : "45 - 50 years", "result" : 17 }
+{ "_id" : "40 - 45 years", "result" : 18 }
+{ "_id" : "10 - 15 years", "result" : 5 }
+{ "_id" : "20 - 25 years", "result" : 121 }
+{ "_id" : "15 - 20 years", "result" : 47 }
+{ "_id" : "35 - 40 years", "result" : 10 }
+
+> db.scores.aggregate([{$group: {_id: "$age_group", degrades: {$min: "$degrades"}}}])
+{ "_id" : "15 - 20 years", "degrades" : "Agree" }
+{ "_id" : "20 - 25 years", "degrades" : "Agree" }
+{ "_id" : "35 - 40 years", "degrades" : "Agree" }
+{ "_id" : "25 - 30 years", "degrades" : "Agree" }
+{ "_id" : "50 - 60 years", "degrades" : "Agree" }
+{ "_id" : "30 - 35 years", "degrades" : "Agree" }
+{ "_id" : "45 - 50 years", "degrades" : "Agree" }
+{ "_id" : "40 - 45 years", "degrades" : "Agree" }
+{ "_id" : "10 - 15 years", "degrades" : "Agree" }
+
+> db.scores.aggregate([{$group: {_id: "$age_group", degrades: {$min: "$pb_inconvenience"}}}])
+{ "_id" : "25 - 30 years", "degrades" : "Don't Care" }
+{ "_id" : "50 - 60 years", "degrades" : "Don't Care" }
+{ "_id" : "30 - 35 years", "degrades" : "Don't Care" }
+{ "_id" : "45 - 50 years", "degrades" : "Don't Care" }
+{ "_id" : "40 - 45 years", "degrades" : "Don't Care" }
+{ "_id" : "35 - 40 years", "degrades" : "Don't Care" }
+{ "_id" : "10 - 15 years", "degrades" : "Don't Care" }
+{ "_id" : "15 - 20 years", "degrades" : "Don't Care" }
+{ "_id" : "20 - 25 years", "degrades" : "Don't Care" }
+
+> db.scores.aggregate([{$group: {_id: "$profession", degrades: {$min: "$age_group"}}}])
+{ "_id" : "NA", "degrades" : "20 - 25 years" }
+{ "_id" : "Private sector", "degrades" : "35 - 40 years" }
+{ "_id" : "Interior designer", "degrades" : "30 - 35 years" }
+{ "_id" : "Unemployed", "degrades" : "20 - 25 years" }
+{ "_id" : "Sportsman / athlete", "degrades" : "35 - 40 years" }
+{ "_id" : "Consultant", "degrades" : "30 - 35 years" }
+{ "_id" : "Other", "degrades" : "30 - 35 years" }
+{ "_id" : "HR", "degrades" : "35 - 40 years" }
+{ "_id" : "Teaching", "degrades" : "20 - 25 years" }
+{ "_id" : "Retired", "degrades" : "50 - 60 years" }
+{ "_id" : "Commerce", "degrades" : "15 - 20 years" }
+{ "_id" : "Student", "degrades" : "15 - 20 years" }
+{ "_id" : "Doctor", "degrades" : "15 - 20 years" }
+{ "_id" : "IT", "degrades" : "15 - 20 years" }
+{ "_id" : "NoMInal Job", "degrades" : "20 - 25 years" }
+{ "_id" : "Management", "degrades" : "30 - 35 years" }
+{ "_id" : "Interior Designer", "degrades" : "40 - 45 years" }
+{ "_id" : "Government sector", "degrades" : "20 - 25 years" }
+{ "_id" : "School Student", "degrades" : "10 - 15 years" }
+{ "_id" : "Engineer", "degrades" : "15 - 20 years" }
+Type "it" for more
+
+> db.scores.distinct("profession")
+
+[
+
+	"Airline",
+
+	"Artist",
+
+	"Business",
+
+	"Commerce",
+
+	"Consultant",
+
+	"Doctor",
+
+	"Engineer",
+
+	"Government sector",
+
+	"HR",
+
+	"IT",
+
+	"Interior Designer",
+
+	"Interior designer",
+
+	"Management",
+
+	"Medical",
+
+	"NA",
+
+	"NoMInal Job",
+
+	"Other",
+
+	"Private sector",
+
+	"Retired",
+
+	"School Student",
+
+	"Sportsman / athlete",
+
+	"Student",
+
+	"Teaching",
+
+	"Unemployed"
+
+]
+
+> MapReduce query
+
+uncaught exception: SyntaxError: unexpected token: identifier :
+
+@(shell):1:10
+
+> var mapFunction3 = function(){ emit(this.battery_hrs, this.age_group);};
+
+> var reduceFunction2 = function(keyprofession, valuesage_group){return Array.sum(valuesage_group);};
+
+> db.scores.mapReduce(mapFunction2, reduceFunction2, {out: "map_red1"})
+
+uncaught exception: ReferenceError: mapFunction2 is not defined :
+
+@(shell):1:1
+
+> db.scores.mapReduce(mapFunction2, reduceFunction2, {out: "map_red1"})
+
+uncaught exception: ReferenceError: mapFunction2 is not defined :
+
+@(shell):1:1
+
+> db.scores.mapReduce(mapFunction2, reduceFunction2, {out: "map_red1"})
+
+uncaught exception: ReferenceError: mapFunction2 is not defined :
+
+@(shell):1:1
+
+> db.scores.mapReduce(mapFunction2, reduceFunction2, {out: "map_red1"}){"result":"map_red1","ok":1}
+
+uncaught exception: SyntaxError: unexpected token: '{' :
+
+@(shell):1:69
+
+> var mapFunction1 = function(){ emit(this.gender, this.age_group);};
+
+> var reduceFunction1 = function(keyGender, valuesAge){return Array.sum(valuesAge);};
+
+> db.scores.mapReduce(mapFunction1, reduceFunction1, {out: "map_reduce"})
+
+{ "result" : "map_reduce", "ok" : 1 }
+
+> db.map_reduce.find().pretty()
+
+{
+
+	"_id" : "Female",
+
+	"value" : "20 - 25 years20 - 25 years20 - 25 years35 - 40 years20 - 25 years35 - 40 years20 - 25 years50 - 60 years50 - 60 years50 - 60 years35 - 40 years35 - 40 years40 - 45 years40 - 45 years40 - 45 years35 - 40 years10 - 15 years40 - 45 years40 - 45 years20 - 25 years35 - 40 years40 - 45 years50 - 60 years20 - 25 years50 - 60 years35 - 40 years50 - 60 years40 - 45 years50 - 60 years50 - 60 years50 - 60 years50 - 60 years50 - 60 years50 - 60 years40 - 45 years30 - 35 years40 - 45 years15 - 20 years15 - 20 years15 - 20 years15 - 20 years15 - 20 years20 - 25 years15 - 20 years15 - 20 years15 - 20 years15 - 20 years15 - 20 years15 - 20 years15 - 20 years15 - 20 years15 - 20 years20 - 25 years15 - 20 years45 - 50 years15 - 20 years20 - 25 years20 - 25 years30 - 35 years10 - 15 years15 - 20 years15 - 20 years20 - 25 years30 - 35 years20 - 25 years20 - 25 years30 - 35 years20 - 25 years25 - 30 years40 - 45 years20 - 25 years30 - 35 years15 - 20 years20 - 25 years50 - 60 years20 - 25 years20 - 25 years20 - 25 years15 - 20 years20 - 25 years20 - 25 years15 - 20 years15 - 20 years15 - 20 years20 - 25 years15 - 20 years20 - 25 years20 - 25 years15 - 20 years25 - 30 years45 - 50 years30 - 35 years20 - 25 years45 - 50 years40 - 45 years45 - 50 years35 - 40 years20 - 25 years30 - 35 years25 - 30 years20 - 25 years20 - 25 years15 - 20 years25 - 30 years20 - 25 years20 - 25 years30 - 35 years45 - 50 years20 - 25 years25 - 30 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years25 - 30 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years35 - 40 years20 - 25 years20 - 25 years"
+
+}
+
+{
+
+	"_id" : "Male",
+
+	"value" : "20 - 25 years20 - 25 years25 - 30 years20 - 25 years35 - 40 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years15 - 20 years20 - 25 years50 - 60 years30 - 35 years30 - 35 years30 - 35 years30 - 35 years50 - 60 years45 - 50 years45 - 50 years50 - 60 years45 - 50 years40 - 45 years45 - 50 years40 - 45 years50 - 60 years15 - 20 years45 - 50 years40 - 45 years25 - 30 years45 - 50 years25 - 30 years30 - 35 years30 - 35 years45 - 50 years40 - 45 years40 - 45 years30 - 35 years40 - 45 years40 - 45 years20 - 25 years15 - 20 years20 - 25 years15 - 20 years15 - 20 years15 - 20 years15 - 20 years15 - 20 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years25 - 30 years20 - 25 years45 - 50 years20 - 25 years20 - 25 years20 - 25 years45 - 50 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years15 - 20 years15 - 20 years20 - 25 years20 - 25 years20 - 25 years10 - 15 years20 - 25 years20 - 25 years15 - 20 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years45 - 50 years20 - 25 years15 - 20 years20 - 25 years20 - 25 years10 - 15 years15 - 20 years20 - 25 years20 - 25 years20 - 25 years10 - 15 years15 - 20 years15 - 20 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years30 - 35 years30 - 35 years25 - 30 years15 - 20 years20 - 25 years45 - 50 years15 - 20 years20 - 25 years45 - 50 years25 - 30 years20 - 25 years25 - 30 years20 - 25 years20 - 25 years30 - 35 years15 - 20 years20 - 25 years20 - 25 years20 - 25 years20 - 25 years15 - 20 years20 - 25 years20 - 25 years20 - 25 years30 - 35 years15 - 20 years20 - 25 years20 - 25 years20 - 25 years50 - 60 years25 - 30 years20 - 25 years20 - 25 years20 - 25 years15 - 20 years20 - 25 years25 - 30 years20 - 25 years20 - 25 years"
+
+}
+
+> 
