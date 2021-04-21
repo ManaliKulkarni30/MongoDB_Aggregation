@@ -1,0 +1,271 @@
+S.NO,age_group,gender,profession,smartphone_brand,apps,Battery,Camera,Processor,Design,Longevity,Compatibility,Display,degrades,battery_hrs,battery_capacity,buy_yoy,stop_bat_deg,carry_powerbank,pb_inconvenience
+1,20 - 25 years,Male,Student,MI,NA | NA | Entertainment | Productivity | Reading | Work,Yes,No,Yes,No,No,No,No,Agree,5 - 7 hrs,Okish,No,Yes,Sometimes,Yes
+2,20 - 25 years,Female,Student,Samsung,Social_Media | NA | Entertainment | NA | NA | NA,Yes,No,Yes,No,No,No,No,Disagree,5 - 7 hrs,Good,No,Yes,Don't Have,Don't Care
+3,25 - 30 years,Male,Engineer,MI,Social_Media | NA | Entertainment | NA | NA | NA,Yes,No,No,No,No,No,Yes,Agree,<4 hrs,Don't Care,"Yes, for tech",Yes,Sometimes,Sometimes
+4,20 - 25 years,Female,Student,Nokia,NA | NA | Entertainment | NA |NA |NA | Work,Yes,Yes,Yes,No,No,Yes,No,I know,One full Day,Good,No,Yes,No,Sometimes
+5,20 - 25 years,Female,Student,One+,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,Yes,No,No,No,Agree,<4 hrs,Good,No,Yes,Sometimes,Yes
+6,35 - 40 years,Female,Teaching,MI,NA | NA | NA | Productivity | Reading | Work,Yes,No,Yes,No,No,No,Yes,Agree,8 - 10 hrs.,Good,No,May be,No,Don't Care
+7,20 - 25 years,Male,Student,Samsung,Social_Media | Gaming | NA | NA | NA| NA,Yes,No,Yes,No,No,No,No,Disagree,5 - 7 hrs,Good,"Yes, old",Yes,Don't Have,No
+8,20 - 25 years,Female,Student,Oppo,Social_Media | NA | Entertainment | NA | Reading | NA,Yes,Yes,No,No,No,Yes,No,Disagree,<4 hrs,Bad,"Yes, for tech",Yes,Yes,Yes
+9,20 - 25 years,Female,Student,MI,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,No,No,No,Yes,I know,8 - 10 hrs.,Good,No,Yes,Sometimes,Sometimes
+10,20 - 25 years,Male,Student,MI,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Good,No,Yes,Don't Have,Don't Care
+11,20 - 25 years,Male,Student,Samsung,Social_Media | NA | NA | NA | NA | Work,Yes,No,Yes,No,Yes,Yes,No,Agree,5 - 7 hrs,Bad,No,Yes,Don't Have,Sometimes
+12,20 - 25 years,Female,Student,Gionee,Social_Media | NA | NA | NA | Reading | Work,Yes,No,Yes,No,No,No,Yes,Agree,5 - 7 hrs,Don't Care,"Yes, SW HW",Yes,Don't Have,Don't Care
+13,20 - 25 years,Female,Student,Asus,Social_Media | NA | Entertainment | NA | NA | NA,Yes,Yes,Yes,Yes,No,No,No,Disagree,5 - 7 hrs,Good,No,Yes,Yes,No
+14,20 - 25 years,Female,Student,MI,Social_Media | NA | NA | NA | NA | Work,No,No,Yes,No,No,No,No,Disagree,5 - 7 hrs,Okish,"Yes, SW HW",Yes,No,Sometimes
+15,15 - 20 years,Male,Student,Vivo,Social_Media | Gaming | Entertainment | NA | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,5 - 7 hrs,Okish,No,Yes,Don't Have,No
+16,25 - 30 years,Female,Government sector,Vivo,Social_Media | Gaming | Entertainment | NA | Reading | NA,Yes,No,Yes,Yes,No,Yes,No,Agree,One full Day,Good,"Yes, SW HW",Yes,Sometimes,Sometimes
+17,20 - 25 years,Male,Student,MI,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,No,No,No,Yes,I know,8 - 10 hrs.,Good,No,Yes,Don't Have,Yes
+18,25 - 30 years,Male,Business,MI,Social_Media | NA | NA | NA | NA | Work,Yes,No,Yes,Yes,No,Yes,No,I know,5 - 7 hrs,Good,"Yes, SW HW",Yes,Don't Have,Sometimes
+19,20 - 25 years,Male,Student,Samsung,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,5 - 7 hrs,Good,No,Yes,Sometimes,Yes
+20,50 - 60 years,Male,Retired ,Apple,Social_Media | NA | NA | NA | NA | NA,No,No,No,Yes,No,No,No,Disagree,5 - 7 hrs,Okish,"Yes, for tech",Yes,Don't Have,Sometimes
+21,20 - 25 years,Male,Student,MI,NA | Gaming | NA | NA | NA | NA,Yes,No,Yes,No,No,No,Yes,Agree,<4 hrs,Bad,No,Yes,Don't Have,No
+22,20 - 25 years,Male,Student,Google,Social_Media | NA | Entertainment | Productivity | Reading| NA,Yes,Yes,Yes,No,No,No,Yes,Agree,8 - 10 hrs.,Good,No,"No, I'm OK",Yes,Sometimes
+23,20 - 25 years,Female,Student,Oppo,Social_Media | NA | Entertainment | Productivity | Reading| NA,Yes,Yes,Yes,No,Yes,No,No,Disagree,5 - 7 hrs,Okish,No,Yes,Sometimes,Sometimes
+24,20 - 25 years,Male,Student,Motorola,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Disagree,8 - 10 hrs.,Good,No,No,Don't Have,Don't Care
+25,15 - 20 years,Male,Student,Motorola,Social_Media | NA | NA | NA | NA | NA,No,Yes,No,No,No,No,No,Disagree,5 - 7 hrs,Okish,No,Yes,Don't Have,Sometimes
+26,30 - 35 years,Male,Consultant,MI,NA | NA | NA | Productivity | Reading | NA,Yes,No,Yes,No,Yes,No,No,Agree,<4 hrs,Okish,"Yes, degrade",May be,Sometimes,Sometimes
+27,20 - 25 years,Male,Student,MI,Social_Media | Gaming | Entertainment | Productivity | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Okish,"Yes, old",Yes,No,Sometimes
+28,20 - 25 years,Female,Student,MI,NA | NA | NA | Productivity | Reading | Work,Yes,No,Yes,No,Yes,Yes,No,Agree,<4 hrs,Okish,No,Yes,Don't Have,Don't Care
+29,20 - 25 years,Male,Student,MI,Social_Media | NA | NA | NA | NA | Work,Yes,Yes,No,No,No,No,Yes,Agree,<4 hrs,Okish,No,Yes,Don't Have,Sometimes
+30,20 - 25 years,Male,Student,Motorola,Social_Media | Gaming | Entertainment | NA | NA | Work,Yes,Yes,Yes,No,No,No,Yes,I know,<4 hrs,Okish,"Yes, for tech",Yes,Don't Have,Sometimes
+31,20 - 25 years,Female,Student,Oppo,NA | NA | NA | NA | NA | Work,Yes,Yes,Yes,Yes,No,No,No,Disagree,<4 hrs,Don't Care,No,Yes,Don't Have,Sometimes
+32,20 - 25 years,Female,Engineer,MI,NA | NA | NA | Productivity | NA | NA | NA,Yes,Yes,Yes,No,No,No,Yes,I know,5 - 7 hrs,Okish,No,Yes,Sometimes,Sometimes
+33,20 - 25 years,Female,Artist,One+,Social_Media | NA | Entertainment | NA | NA | NA,No,Yes,Yes,No,No,No,No,Disagree,One full Day,Good,No,"No, I'm OK",Don't Have,Yes
+34,15 - 20 years,Male,Student,RealMe,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Good,No,Yes,Sometimes,Don't Care
+35,20 - 25 years,Male,Student,MI,NA | NA | NA | Productivity | Reading | NA,Yes,No,Yes,No,No,Yes,No,Disagree,8 - 10 hrs.,Good,No,May be,Don't Have,Don't Care
+36,20 - 25 years,Female,Student,Asus,NA | NA | NA | NA | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,5 - 7 hrs,Okish,No,Yes,Yes,Sometimes
+37,20 - 25 years,Male,Student,Samsung,Social_Media | Gaming | Entertainment | Productivity | NA | NA,Yes,Yes,Yes,No,No,No,Yes,Disagree,One full Day,Good,"Yes, for tech",No,Sometimes,Don't Care
+38,20 - 25 years,Male,Student,MI,Social_Media | NA | Entertainment | NA | NA | NA,Yes,No,Yes,Yes,No,No,No,Agree,One Day+,Good,No,Yes,No,Yes
+39,20 - 25 years,Male,Artist,Apple,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,Yes,No,No,No,Disagree,<4 hrs,Good,No,Yes,No,Sometimes
+40,20 - 25 years,Female,Student,MI,Social_Media | Gaming | NA | Reading | NA | Work,Yes,No,Yes,Yes,No,Yes,No,Disagree,8 - 10 hrs.,Don't Care,No,Yes,Sometimes,Sometimes
+41,20 - 25 years,Female,Student,MI,Social_Media | NA | NA | NA | NA | NA,No,No,Yes,No,No,No,No,Disagree,5 - 7 hrs,Don't Care,No,Yes,Don't Have,Don't Care
+42,15 - 20 years,Male,Student,Oppo,Social_Media | Gaming | NA | NA | NA| NA,No,No,Yes,No,No,No,No,Disagree,<4 hrs,Bad,"Yes, SW HW",Yes,Don't Have,Yes
+43,25 - 30 years,Female,Teaching,Vivo,NA | NA | Entertainment | NA | Reading | NA |,Yes,Yes,Yes,No,No,No,Yes,Disagree,One full Day,Good,No,"No, I'm OK",Don't Have,Don't Care
+44,30 - 35 years,Male,Teaching,Oppo,Social_Media | NA | Entertainment | Productivity | NA | Work,Yes,No,Yes,No,Yes,No,No,Agree,8 - 10 hrs.,Good,No,Yes,Don't Have,Don't Care
+45,20 - 25 years,Male,Student,Apple,Social_Media | Gaming | NA | Reading | NA | Work,Yes,Yes,No,No,Yes,No,No,Agree,8 - 10 hrs.,Good,No,"No, I'm OK",Sometimes,Sometimes
+46,20 - 25 years,Male,Student,IN,Social_Media | NA | NA | NA | NA | NA,No,No,Yes,No,No,No,Yes,Agree,<4 hrs,Bad,"Yes, old",Yes,Yes,No
+47,20 - 25 years,Male,Government sector,One+,Social_Media | Gaming | NA | Productivity | NA | NA,Yes,Yes,Yes,No,No,No,Yes,Disagree,8 - 10 hrs.,Good,No,Yes,Don't Have,Yes
+48,25 - 30 years,Male,IT,Apple,Social_Media | NA | Entertainment | Productivity | NA | NA | NA ,Yes,No,No,No,Yes,No,Yes,Disagree,<4 hrs,Bad,No,Yes,Sometimes,Yes
+49,20 - 25 years,Female,Student,MI,Social_Media | NA | NA | NA | NA | Work,Yes,Yes,Yes,No,No,No,No,Disagree,<4 hrs,Okish,No,Yes,Sometimes,Yes
+50,45 - 50 years,Female,Teaching,Vivo,Social_Media | NA | NA | NA | NA | NA,No,Yes,No,No,No,No,No,Disagree,One full Day,Good,"Yes, SW HW",Yes,No,Yes
+51,30 - 35 years,Female,Medical,Oppo,Social_Media | NA | NA | Productivity | NA | Work ,Yes,Yes,Yes,No,No,No,Yes,Agree,One full Day,Okish,"Yes, SW HW",Yes,Don't Have,Don't Care
+52,45 - 50 years,Male,Business,RealMe,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,No,No,No,No,Agree,One full Day,Good,No,Yes,Don't Have,Never use
+53,25 - 30 years,Male,IT,One+,Social_Media | NA | NA | NA | NA | Work,Yes,No,Yes,Yes,Yes,No,No,Don't Care,One full Day,Good,"Yes, SW HW",Yes,Don't Have,Yes
+54,45 - 50 years,Male,Teaching,Vivo,Social_Media | NA | NA | NA | NA | NA,No,No,Yes,No,No,No,No,I know,One full Day,Good,"Yes, for tech",Yes,No,Yes
+55,20 - 25 years,Male,Airline,Apple,NA | NA | NA | NA | NA | Work,Yes,Yes,Yes,No,No,No,No,Agree,One full Day,Good,"Yes, for tech",Yes,Sometimes,Yes
+56,20 - 25 years,Male,Student,Vivo,Social_Media | NA | Entertainment | NA | NA | NA,Yes,Yes,Yes,No,No,No,No,Disagree,5 - 7 hrs,Good,"Yes, for tech",Yes,Yes,Yes
+57,15 - 20 years,Male,Student,One+,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Okish,No,Yes,Sometimes,Sometimes
+58,20 - 25 years,Female,Student,MI,NA | NA | NA | Productivity | NA | Work,Yes,No,Yes,Yes,No,No,No,Agree,<4 hrs,Good,No,May be,No,No
+59,20 - 25 years,Female,Student,One+,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,No,Yes,No,No,No,Disagree,5 - 7 hrs,Good,No,Yes,Don't Have,Yes
+60,45 - 50 years,Male,Business,Samsung,Social_Media | NA | Entertainment | Productivity | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,5 - 7 hrs,Good,No,Yes,No,Sometimes
+61,15 - 20 years,Female,Student,Vivo,Social_Media | Gaming | Entertainment | NA | NA |NA,Yes,No,No,No,No,No,Yes,Disagree,<4 hrs,Okish,No,Yes,Don't Have,Don't Care
+62,25 - 30 years,Female,Medical,Apple,Social_Media | NA | Entertainment | NA | NA | NA,Yes,No,Yes,Yes,Yes,No,No,Disagree,8 - 10 hrs.,Good,No,Yes,Sometimes,Sometimes
+63,20 - 25 years,Female,Student,Samsung,NA | NA | NA | NA | Reading | NA,Yes,No,No,No,No,No,No,Agree,5 - 7 hrs,Don't Care,No,"No, I'm OK",Don't Have,No
+64,15 - 20 years,Male,IT,One+,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,No,No,No,No,Agree,8 - 10 hrs.,Good,No,"No, I'm OK",Don't Have,No
+65,25 - 30 years,Male,IT,RealMe,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,No,No,Yes,Yes,No,No,Yes,Agree,5 - 7 hrs,Don't Care,"Yes, for tech",No,Sometimes,Don't Care
+66,20 - 25 years,Female,Student,Motorola,Social_Media | NA | NA | NA | Reading | Work,Yes,No,Yes,No,No,No,Yes,Disagree,8 - 10 hrs.,Good,No,"No, I'm OK",Don't Have,Don't Care
+67,25 - 30 years,Female,Artist,Samsung,Social_Media | Gaming | NA | NA | Reading | NA,Yes,No,Yes,No,No,No,No,Agree,8 - 10 hrs.,Don't Care,No,Yes,No,Yes
+68,30 - 35 years,Male,Commerce,MI,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,No,No,No,No,Agree,8 - 10 hrs.,Okish,"Yes, SW HW",Yes,Sometimes,Sometimes
+69,30 - 35 years,Female,IT,RealMe,Social_Media | Gaming | NA | NA | NA| NA,Yes,Yes,No,Yes,Yes,No,No,Disagree,5 - 7 hrs,Good,No,Yes,Yes,No
+70,35 - 40 years,Female,Unemployed,Vivo,Social_Media | NA | NA | NA | NA | NA,No,Yes,No,Yes,No,Yes,Yes,Disagree,5 - 7 hrs,Good,No,"No, I'm OK",Don't Have,Yes
+71,20 - 25 years,Female,Student,Nokia,Social_Media | NA | Entertainment | NA | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,8 - 10 hrs.,Good,No,May be,Don't Have,No
+72,45 - 50 years,Female,Teaching,Samsung,NA | NA | NA | Productivity | NA | NA | NA,No,No,Yes,No,No,No,No,Disagree,8 - 10 hrs.,Good,No,Yes,No,Sometimes
+73,30 - 35 years,Male,Other,RealMe,Social_Media | NA | Entertainment | Productivity | NA | NA | NA ,Yes,Yes,Yes,No,No,No,Yes,Don't Care,8 - 10 hrs.,Good,No,Yes,No,No
+74,40 - 45 years,Female,Teaching,Samsung,Social_Media | Gaming | Entertainment | NA | NA | Work,Yes,Yes,Yes,No,No,No,No,Disagree,8 - 10 hrs.,Don't Care,No,Yes,Don't Have,Sometimes
+75,20 - 25 years,Male,Student,MI,Social_Media | NA | Entertainment | NA | NA | NA,Yes,Yes,Yes,No,No,No,Yes,Don't Care,5 - 7 hrs,Good,No,"No, I'm OK",No,Sometimes
+76,20 - 25 years,Male,IT,MI,Social_Media | Gaming | Entertainment | NA | NA |NA,Yes,Yes,Yes,No,No,No,Yes,Don't Care,5 - 7 hrs,Good,No,May be,Sometimes,No
+77,45 - 50 years,Female,Medical,One+,Social_Media | NA | NA | NA | NA | Work,No,No,Yes,No,No,No,No,Agree,8 - 10 hrs.,Good,No,Yes,Don't Have,Yes
+78,45 - 50 years,Female,IT,One+,Social_Media | NA | NA | NA | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,8 - 10 hrs.,Good,No,May be,Don't Have,Never use
+79,20 - 25 years,Female,Student,RealMe,Social_Media | NA | NA | NA | NA | NA,No,No,Yes,No,No,No,No,Disagree,8 - 10 hrs.,Good,No,May be,Sometimes,Sometimes
+80,20 - 25 years,Male,Business,One+,Social_Media | NA | NA | Productivity | NA | NA,Yes,Yes,Yes,No,No,No,Yes,Agree,8 - 10 hrs.,Good,No,"No, I'm OK",No,Sometimes
+81,20 - 25 years,Male,Engineer,MI,Social_Media | NA | NA | NA | NA | NA,No,No,Yes,No,No,No,No,Agree,8 - 10 hrs.,Okish,No,Yes,Don't Have,Don't Care
+82,30 - 35 years,Female,Unemployed,Vivo,Social_Media | Gaming | NA | Productivity | Reading | NA,Yes,Yes,No,No,No,No,No,Disagree,5 - 7 hrs,Okish,"Yes, SW HW",May be,Sometimes,No
+83,20 - 25 years,Male,Engineer,Nokia,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,5 - 7 hrs,Bad,"Yes, degrade",Yes,No,Yes
+84,20 - 25 years,Male,Student,Samsung,NA | Gaming | NA | NA | NA | NA,Yes,Yes,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Good,No,Yes,Don't Have,Yes
+85,20 - 25 years,Female,Engineer,Apple,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,<4 hrs,Okish,"Yes, degrade",Yes,No,Yes
+86,25 - 30 years,Female,Teaching,Motorola,Social_Media | NA | Entertainment | NA | NA | Work,Yes,No,Yes,Yes,Yes,No,No,Agree,5 - 7 hrs,Okish,No,May be,No,Don't Care
+87,15 - 20 years,Female,Student,Apple,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,<4 hrs,Okish,No,Yes,Sometimes,Sometimes
+88,15 - 20 years,Male,Student,MI,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,No,No,Yes,No,Agree,5 - 7 hrs,Good,No,Yes,Don't Have,Don't Care
+89,15 - 20 years,Male,Student,Vivo,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,8 - 10 hrs.,Good,No,"No, I'm OK",Don't Have,Don't Care
+90,10 - 15 years,Male,School Student,MI,Social_Media | Gaming | Entertainment | NA | NA |NA,Yes,Yes,Yes,No,No,No,Yes,Disagree,One Day+,Good,No,"No, I'm OK",Don't Have,No
+91,20 - 25 years,Male,Unemployed,Samsung,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,Yes,No,No,No,Agree,5 - 7 hrs,Okish,"Yes, old",No,Don't Have,No
+92,20 - 25 years,Male,Student,Asus,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,Yes,No,No,No,Disagree,8 - 10 hrs.,Good,"Yes, degrade",Yes,Don't Have,Yes
+93,15 - 20 years,Male,School Student,Samsung,Social_Media | Gaming | Entertainment | NA | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,5 - 7 hrs,Okish,No,Yes,Sometimes,Sometimes
+94,15 - 20 years,Female,Student,MI,Social_Media | NA | NA | NA | NA | Work,Yes,Yes,No,No,No,Yes,No,Agree,8 - 10 hrs.,Don't Care,No,Yes,No,Sometimes
+95,20 - 25 years,Male,Engineer,MI,Social_Media | NA | Entertainment | NA | NA | NA,No,Yes,No,Yes,No,No,Yes,Disagree,One full Day,Good,No,May be,No,Sometimes
+96,10 - 15 years,Male,School Student,MI,Social_Media | NA | NA | NA | Reading | NA,No,No,No,Yes,No,No,No,Disagree,8 - 10 hrs.,Good,No,Yes,Don't Have,Don't Care
+97,15 - 20 years,Male,School Student,RealMe,Social_Media | Gaming | Entertainment | NA | NA |NA,No,No,Yes,No,No,No,No,Disagree,5 - 7 hrs,Good,"Yes, for tech",Yes,Don't Have,Yes
+98,20 - 25 years,Female,Engineer,Oppo,Social_Media | NA | Entertainment | NA | NA | NA,Yes,Yes,No,No,Yes,No,No,Disagree,8 - 10 hrs.,Okish,No,Yes,Yes,Yes
+99,20 - 25 years,Male,Student,Samsung,Social_Media | Gaming | Entertainment | NA | NA |NA,Yes,Yes,Yes,No,No,No,Yes,Disagree,<4 hrs,Okish,No,Yes,Sometimes,Sometimes
+100,20 - 25 years,Female,Medical,Samsung,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,<4 hrs,Good,"Yes, SW HW",No,Yes,No
+101,20 - 25 years,Male,Student,RealMe,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,No,No,No,Yes,Disagree,<4 hrs,Okish,No,Yes,Don't Have,Yes
+102,20 - 25 years,Male,Engineer,Samsung,Social_Media | NA | NA | NA | Reading | NA,Yes,Yes,Yes,No,No,No,No,Disagree,5 - 7 hrs,Okish,No,May be,Don't Have,No
+103,15 - 20 years,Female,Doctor,Apple,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,8 - 10 hrs.,Good,No,"No, I'm OK",No,Sometimes
+104,45 - 50 years,Male,NA,Vivo,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Disagree,5 - 7 hrs,Good,"Yes, degrade",Yes,No,Sometimes
+105,15 - 20 years,Female,School Student,Apple,NA | Gaming | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,One Day+,Good,"Yes, for tech",Yes,Yes,No
+106,15 - 20 years,Female,Student,Samsung,NA | Gaming | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Disagree,5 - 7 hrs,Don't Care,"Yes, for tech",Yes,Sometimes,Sometimes
+107,20 - 25 years,Male,Artist,Samsung,Social_Media | NA | Entertainment | NA | NA | NA,Yes,Yes,Yes,No,No,No,No,Disagree,5 - 7 hrs,Good,"Yes, old",Yes,Yes,No
+108,20 - 25 years,Male,Student,RealMe,Social_Media | Gaming | Entertainment | NA | NA | Work,Yes,No,Yes,No,No,No,No,Agree,<4 hrs,Okish,No,Yes,Yes,No
+109,20 - 25 years,Male,Student,Samsung,Social_Media | NA | Entertainment | NA | NA | NA,Yes,Yes,No,No,No,No,Yes,Agree,5 - 7 hrs,Good,No,May be,Don't Have,Don't Care
+110,20 - 25 years,Male,Student,Gionee,Social_Media | NA | Entertainment | Productivity | Reading | Work,Yes,Yes,No,No,No,No,No,Agree,5 - 7 hrs,Don't Care,No,Yes,Don't Have,Don't Care
+111,20 - 25 years,Female,Student,MI,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,No,No,Yes,Yes,No,Yes,No,Agree,One full Day,Good,"Yes, degrade",Yes,Sometimes,Yes
+112,15 - 20 years,Female,Student,Samsung,Social_Media | NA | NA | NA | NA | Work,Yes,Yes,No,No,No,No,No,I know,One full Day,Good,No,Yes,Sometimes,No
+113,20 - 25 years,Female,Student,Lenovo,Social_Media | NA | Entertainment | NA | NA | NA,Yes,No,No,No,No,No,Yes,Agree,8 - 10 hrs.,Bad,"Yes, degrade",Yes,Don't Have,Don't Care
+114,20 - 25 years,Female,Engineer,MI,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,No,No,No,Yes,Don't Care,5 - 7 hrs,Good,No,Yes,Don't Have,Don't Care
+115,15 - 20 years,Male,Student,Motorola,Social_Media | Gaming | NA | Productivity | Reading | NA,Yes,No,Yes,Yes,No,No,No,I know,5 - 7 hrs,Good,No,Yes,Don't Have,Sometimes
+116,20 - 25 years,Female,Student,MI,Social_Media | NA | NA | NA | NA | NA,No,No,No,Yes,No,No,No,Disagree,5 - 7 hrs,Okish,No,Yes,Yes,Sometimes
+117,20 - 25 years,Male,Student,One+,Social_Media | NA | NA | NA | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Good,No,Yes,Don't Have,No
+118,20 - 25 years,Female,Student,Samsung,Social_Media | NA | Entertainment | NA | NA | Work,Yes,Yes,No,No,No,Yes,No,Agree,5 - 7 hrs,Bad,"Yes, for tech",Yes,Sometimes,Sometimes
+119,20 - 25 years,Male,NoMInal Job,Samsung,Social_Media | Gaming | Entertainment | NA | NA |NA,Yes,Yes,No,No,No,No,No,Don't Care,One full Day,Good,No,Yes,Don't Have,Don't Care
+120,20 - 25 years,Female,Engineer,Samsung,Social_Media | NA | Entertainment | NA | NA | NA,Yes,Yes,Yes,Yes,No,No,No,Disagree,8 - 10 hrs.,Okish,No,May be,No,Sometimes
+121,50 - 60 years,Female,Medical,RealMe,Social_Media | Gaming | NA | NA | NA| NA,No,No,Yes,No,Yes,No,No,Disagree,5 - 7 hrs,Good,"Yes, degrade",Yes,No,No
+122,10 - 15 years,Male,School Student,Samsung,NA | Gaming | NA | NA | NA | NA,No,No,Yes,No,No,No,Yes,Agree,<4 hrs,Bad,No,Yes,Don't Have,Don't Care
+123,20 - 25 years,Male,Student,Oppo,NA | Gaming | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Don't Care,8 - 10 hrs.,Good,No,No,Don't Have,Don't Care
+124,15 - 20 years,Male,School Student,RealMe,Social_Media | Gaming | Entertainment | NA | NA |NA,Yes,Yes,Yes,No,Yes,No,No,Don't Care,<4 hrs,Good,No,Yes,No,No
+125,20 - 25 years,Male,Engineer,MI,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,No,No,No,No,Agree,5 - 7 hrs,Bad,No,Yes,No,Sometimes
+126,20 - 25 years,Male,NA,Samsung,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,No,No,No,No,Agree,One Day+,Good,No,May be,No,Don't Care
+127,15 - 20 years,Male,Student,MI,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,No,No,No,No,Agree,8 - 10 hrs.,Good,No,"No, I'm OK",Don't Have,No
+128,15 - 20 years,Female,Student,Apple,Social_Media | NA | NA | NA | NA | NA,No,Yes,No,No,No,No,No,Agree,5 - 7 hrs,Don't Care,No,Yes,Don't Have,No
+129,20 - 25 years,Male,Student,MI,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,5 - 7 hrs,Bad,No,Yes,No,No
+130,30 - 35 years,Female,Engineer,Apple,Social_Media | NA | Entertainment | Productivity | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,5 - 7 hrs,Okish,"Yes, for tech",Yes,No,No
+131,40 - 45 years,Female,NA,Samsung,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,One full Day,Good,No,Yes,Don't Have,Don't Care
+132,20 - 25 years,Female,Student,MI,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,Yes,Yes,Yes,No,No,Yes,No,Disagree,8 - 10 hrs.,Good,No,Yes,Sometimes,No
+133,20 - 25 years,Male,Student,Samsung,NA | Gaming | NA | NA | NA | NA,Yes,No,No,Yes,No,No,No,Disagree,5 - 7 hrs,Good,No,Yes,Sometimes,No
+134,20 - 25 years,Male,Student,MI,Social_Media | NA | Entertainment | NA | Reading | Work,Yes,No,Yes,No,No,No,Yes,I know,8 - 10 hrs.,Don't Care,No,"No, I'm OK",Sometimes,No
+135,20 - 25 years,Female,NA,One+,Social_Media | NA | NA | Productivity | NA | Work ,Yes,No,Yes,No,Yes,Yes,No,Disagree,One full Day,Good,No,"No, I'm OK",Sometimes,Sometimes
+136,20 - 25 years,Male,Student,MI,Social_Media | NA | NA | Productivity | Reading | NA,Yes,No,Yes,No,No,No,Yes,I know,5 - 7 hrs,Good,No,Yes,Don't Have,Sometimes
+137,20 - 25 years,Male,Student,RealMe,Social_Media | Gaming | NA | NA | NA| NA,Yes,No,Yes,Yes,No,No,No,Disagree,One full Day,Good,No,"No, I'm OK",Don't Have,No
+138,20 - 25 years,Male,Student,MI,Social_Media | NA | Entertainment | NA | NA | NA,No,No,Yes,Yes,No,No,Yes,Agree,<4 hrs,Okish,No,Yes,No,Yes
+139,20 - 25 years,Female,Student,MI,Social_Media | NA | Entertainment | NA | Reading | NA,Yes,Yes,Yes,No,No,No,Yes,Agree,<4 hrs,Bad,"Yes, degrade",Yes,Don't Have,Sometimes
+140,25 - 30 years,Female,IT,Samsung,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,Yes,No,Yes,No,No,No,No,Agree,One full Day,Good,"Yes, SW HW","No, I'm OK",No,Sometimes
+141,30 - 35 years,Female,Interior designer,MI,Social_Media | Gaming | NA | NA | Reading | NA,Yes,Yes,Yes,Yes,No,No,No,Agree,8 - 10 hrs.,Okish,No,Yes,Sometimes,Sometimes
+142,20 - 25 years,Male,Student,One+,Social_Media | Gaming | Entertainment | NA | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Good,"Yes, SW HW",Yes,Sometimes,Sometimes
+143,20 - 25 years,Female,Student,Samsung,NA | Gaming | Entertainment |NA | Reading | NA,Yes,No,Yes,No,No,No,No,Disagree,8 - 10 hrs.,Don't Care,No,Yes,Don't Have,Yes
+144,30 - 35 years,Female,NA,One+,Social_Media | NA | Entertainment | NA | NA | Work,Yes,No,Yes,No,No,Yes,No,I know,8 - 10 hrs.,Good,"Yes, SW HW","No, I'm OK",Don't Have,Don't Care
+145,15 - 20 years,Female,Student,MI,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Good,No,"No, I'm OK",Don't Have,Don't Care
+146,20 - 25 years,Female,Student,Apple,Social_Media | NA | Entertainment | Productivity | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Okish,No,Yes,Yes,No
+147,20 - 25 years,Male,Engineer,Samsung,Social_Media | NA | NA | Productivity | NA | Work ,Yes,Yes,Yes,No,No,No,Yes,Disagree,<4 hrs,Okish,No,Yes,Don't Have,Don't Care
+148,20 - 25 years,Male,Student,Samsung,Social_Media | Gaming | NA | NA | NA| NA,Yes,No,Yes,No,No,No,Yes,Agree,8 - 10 hrs.,Good,"Yes, old",Yes,No,Don't Care
+149,15 - 20 years,Female,Student,LG,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,One full Day,Good,"Yes, for tech",Yes,Sometimes,No
+150,20 - 25 years,Male,IT,One+,Social_Media | Gaming | NA | NA | NA| NA,Yes,Yes,No,No,Yes,Yes,No,Agree,<4 hrs,Good,No,Yes,Don't Have,Sometimes
+151,45 - 50 years,Male,Engineer,Asus,Social_Media | NA | NA | NA | NA | NA,No,No,No,No,No,No,Yes,Don't Care,One full Day,Don't Care,"Yes, SW HW",May be,No,Yes
+152,10 - 15 years,Female,School Student,MI,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,Yes,No,No,No,Disagree,8 - 10 hrs.,Good,No,Yes,Sometimes,No
+153,20 - 25 years,Male,Engineer,Apple,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,Yes,No,No,No,Disagree,<4 hrs,Okish,"Yes, for tech",Yes,Don't Have,Don't Care
+154,25 - 30 years,Male,IT,Samsung,Social_Media | NA | NA | Productivity | NA | NA,Yes,No,Yes,No,No,No,Yes,Don't Care,One Day+,Good,No,"No, I'm OK",Don't Have,Yes
+155,20 - 25 years,Male,Student,Samsung,NA | NA | Entertainment | NA |NA |NA | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,One Day+,Good,"Yes, for tech",No,Don't Have,Yes
+156,30 - 35 years,Female,Teaching,MI,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,Yes,No,Yes,No,No,No,No,Agree,5 - 7 hrs,Don't Care,"Yes, degrade",Yes,Don't Have,Yes
+157,20 - 25 years,Female,Medical,MI,NA | NA | Entertainment | NA | NA | NA,No,No,No,No,Yes,Yes,No,Disagree,5 - 7 hrs,Good,No,May be,No,Don't Care
+158,20 - 25 years,Male,Student,Samsung,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,Yes,No,Yes,No,Agree,<4 hrs,Okish,No,"No, I'm OK",No,No
+159,20 - 25 years,Male,Student,Samsung,Social_Media | NA | NA | Productivity | NA | Work ,Yes,Yes,Yes,No,No,No,Yes,Don't Care,5 - 7 hrs,Good,No,No,No,Sometimes
+160,20 - 25 years,Female,Student,Lenovo ,Social_Media | Gaming | Entertainment | NA | Reading | NA,No,Yes,Yes,Yes,No,No,No,Don't Care,<4 hrs,Okish,No,Yes,Don't Have,No
+161,20 - 25 years,Male,Student,Samsung,Social_Media | NA | NA | NA | NA | Work,Yes,No,Yes,Yes,No,No,No,I know,<4 hrs,Don't Care,No,"No, I'm OK",No,Yes
+162,15 - 20 years,Female,Student,Oppo,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,No,No,No,No,Agree,5 - 7 hrs,Okish,No,Yes,Sometimes,Sometimes
+163,20 - 25 years,Male,Student,Samsung,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,No,No,No,Yes,Disagree,One full Day,Good,"Yes, degrade",Yes,No,No
+164,20 - 25 years,Male,Student,Samsung,NA | NA | NA | NA | NA | Work,No,No,Yes,No,No,No,No,Agree,8 - 10 hrs.,Good,No,May be,Don't Have,Don't Care
+165,45 - 50 years,Female,Medical,Oppo,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Disagree,One Day+,Good,No,"No, I'm OK",Don't Have,Don't Care
+166,15 - 20 years,Female,Student,Samsung,Social_Media | NA | Entertainment | NA | NA | NA,Yes,Yes,No,Yes,No,No,No,Agree,One full Day,Good,No,May be,Don't Have,No
+167,20 - 25 years,Female,Student,Samsung,Social_Media | NA | NA | NA | NA | NA,No,No,Yes,No,No,No,No,Disagree,5 - 7 hrs,Good,"Yes, degrade",Yes,No,Sometimes
+168,15 - 20 years,Male,Student,Samsung,NA | NA | NA | NA | Reading | NA,Yes,No,No,No,No,No,No,Agree,<4 hrs,Bad,No,Yes,Don't Have,Yes
+169,15 - 20 years,Female,Student,Oppo,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,<4 hrs,Okish,No,Yes,Sometimes,Sometimes
+170,15 - 20 years,Female,Student,RealMe,Social_Media | NA | NA | NA | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,8 - 10 hrs.,Don't Care,No,May be,Don't Have,Yes
+171,15 - 20 years,Female,Student,Apple,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,Yes,No,No,No,Agree,8 - 10 hrs.,Bad,No,Yes,Don't Have,Yes
+172,15 - 20 years,Male,Student,RealMe,Social_Media | NA | Entertainment | NA | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,8 - 10 hrs.,Good,No,"No, I'm OK",Don't Have,Don't Care
+173,15 - 20 years,Female,Student,One+,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,8 - 10 hrs.,Good,No,Yes,Don't Have,Don't Care
+174,15 - 20 years,Male,Student,One+,Social_Media | NA | NA | NA | NA | NA,No,No,Yes,No,No,No,No,Don't Care,8 - 10 hrs.,Good,"Yes, SW HW",May be,No,No
+175,15 - 20 years,Male,Student,MI,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,No,No,No,No,Disagree,<4 hrs,Okish,"Yes, for tech",Yes,Don't Have,Sometimes
+176,15 - 20 years,Female,Student,MI,NA | NA | NA | NA | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Don't Care,No,May be,Sometimes,No
+177,15 - 20 years,Male,Student,MI,Social_Media | NA | NA | NA | NA | NA,No,No,Yes,No,No,No,No,Don't Care,One full Day,Okish,No,Yes,No,Don't Care
+178,20 - 25 years,Male,Government sector,Apple,NA | NA | NA | NA | Reading | NA,No,No,Yes,No,No,Yes,No,I know,One full Day,Good,"Yes, for tech",Yes,No,No
+179,15 - 20 years,Female,Student,Vivo,Social_Media | NA | NA | Productivity | NA | NA,Yes,No,Yes,Yes,No,No,No,Disagree,<4 hrs,Don't Care,No,May be,Sometimes,Sometimes
+180,15 - 20 years,Female,Student,MI,Social_Media | NA | NA | NA | Reading | NA,Yes,Yes,Yes,Yes,No,No,No,Disagree,8 - 10 hrs.,Okish,No,May be,Don't Have,Sometimes
+181,15 - 20 years,Female,Commerce,Samsung,NA | NA | Entertainment | NA | NA | NA,No,No,No,No,No,No,Yes,Agree,One full Day,Good,No,Yes,Don't Have,Don't Care
+182,15 - 20 years,Female,Commerce,MI,Social_Media | NA | Entertainment | NA | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Don't Care,No,May be,Don't Have,Sometimes
+183,15 - 20 years,Male,Student,Lava,Social_Media | NA | NA | NA | NA | Work,Yes,No,No,No,No,No,No,Agree,<4 hrs,Bad,No,Yes,Sometimes,Sometimes
+184,15 - 20 years,Female,Student,Samsung,NA | NA | NA | NA | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,<4 hrs,Don't Care,No,"No, I'm OK",Don't Have,Don't Care
+185,20 - 25 years,Female,Commerce,MI,Social_Media | NA | NA | NA | Reading | Work,Yes,No,Yes,Yes,No,No,No,Agree,5 - 7 hrs,Okish,No,Yes,Yes,No
+186,15 - 20 years,Female,Student,Panasonic ,Social_Media | NA | Entertainment | NA | Reading | Work,Yes,No,Yes,No,No,Yes,No,Disagree,<4 hrs,Okish,No,Yes,Don't Have,Yes
+187,15 - 20 years,Female,Student,MI,Social_Media | NA | NA | NA | NA | NA,No,Yes,No,No,No,No,No,Don't Care,One full Day,Good,No,Yes,Don't Have,Sometimes
+188,15 - 20 years,Female,Student,MI,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,5 - 7 hrs,Okish,No,May be,Don't Have,Don't Care
+189,15 - 20 years,Female,Student,Vivo,Social_Media | Gaming | Entertainment | NA | NA |NA,Yes,Yes,Yes,No,No,No,Yes,Agree,One Day+,Good,NA,Yes,Don't Have,No
+190,20 - 25 years,Male,Student,MI,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,No,Yes,No,No,Disagree,5 - 7 hrs,Okish,No,Yes,Don't Have,Don't Care
+191,40 - 45 years,Male,IT,Samsung,Social_Media | NA | NA | NA | Reading | NA,Yes,Yes,Yes,No,No,No,No,Disagree,8 - 10 hrs.,Okish,No,Yes,No,Don't Care
+192,40 - 45 years,Male,Engineer,Apple,Social_Media | NA | NA | NA | Reading | NA,No,Yes,No,Yes,Yes,No,Yes,Disagree,5 - 7 hrs,Bad,No,Yes,No,Sometimes
+193,40 - 45 years,Female,Medical,Apple,Social_Media | NA | NA | NA | Reading | Work,No,No,Yes,No,Yes,No,No,I know,5 - 7 hrs,Good,No,May be,No,No
+194,30 - 35 years,Male,IT,Motorola,Social_Media | NA | NA | NA | Reading | NA,Yes,Yes,Yes,No,No,No,No,Agree,One full Day,Good,"Yes, Slow",No need,No,Sometimes
+195,40 - 45 years,Male,IT,Samsung,Social_Media | NA | NA | NA | Reading | NA,Yes,No,Yes,Yes,No,No,No,Agree,5 - 7 hrs,Don't Care,No,May be,Don't Have,Yes
+196,40 - 45 years,Male,IT,MI,Social_Media | NA | NA | Productivity | Reading | NA,Yes,Yes,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Good,No,Yes,Don't Have,Sometimes
+197,30 - 35 years,Female,Unemployed,Nokia,Social_Media | NA | NA | NA | Reading | NA,Yes,No,Yes,No,No,Yes,No,Agree,8 - 10 hrs.,Okish,No,"No, I'm OK",Sometimes,No
+198,40 - 45 years,Female,IT,Samsung,Social_Media | NA | Entertainment | NA | NA | NA,No,No,No,No,Yes,No,No,Disagree,One full Day,Don't Care,No,Yes,Don't Have,Don't Care
+199,50 - 60 years,Female,Teaching,Samsung,NA | NA | NA | NA | NA | Work,No,No,No,No,No,No,Yes,Disagree,8 - 10 hrs.,Good,No,Yes,No,Sometimes
+200,50 - 60 years,Female,Business,Lenovo,NA | NA | NA | Productivity | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,One full Day,Good,No,"No, I'm OK",Don't Have,No
+201,50 - 60 years,Female,Teaching,Samsung,Social_Media | NA | NA | NA | Reading | NA,Yes,No,No,No,Yes,No,No,Disagree,8 - 10 hrs.,Okish,No,"No, I'm OK",No,Don't Care
+202,50 - 60 years,Female,Teaching,Apple,NA | NA | NA | Productivity | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,8 - 10 hrs.,Good,"Yes, old",Yes,No,Sometimes
+203,50 - 60 years,Female,Government sector,Motorola,NA | NA | NA | Productivity | NA | NA | NA,No,No,No,No,No,Yes,No,Agree,5 - 7 hrs,Don't Care,No,Yes,Don't Have,Sometimes
+204,45 - 50 years,Male,IT,One+,Social_Media | NA | NA | NA | NA | NA,No,No,No,Yes,No,No,No,Disagree,8 - 10 hrs.,Good,No,"No, I'm OK",Don't Have,Yes
+205,50 - 60 years,Female,Teaching,Vivo,Social_Media | NA | NA | NA | NA | NA,No,No,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Okish,No,Yes,Don't Have,Sometimes
+206,40 - 45 years,Female,Teaching,Samsung,NA | NA | NA | NA | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,One full Day,Good,No,"No, I'm OK",No,Sometimes
+207,50 - 60 years,Female,Government sector,MI,NA | NA | NA | NA | NA | Work,No,No,No,No,Yes,No,Yes,I know,<4 hrs,Good,No,Yes,Don't Have,Don't Care
+208,35 - 40 years,Female,Teaching,MI,NA | NA | NA | NA | NA | Work,No,Yes,Yes,No,No,Yes,No,Disagree,8 - 10 hrs.,Bad,No,Yes,Sometimes,No
+209,30 - 35 years,Male,Government sector,Samsung,NA | NA | NA | NA | NA | Work,Yes,No,Yes,No,Yes,No,No,Disagree,<4 hrs,Okish,No,Yes,Don't Have,Yes
+210,30 - 35 years,Male,Government sector,Samsung,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,No,No,No,No,I know,5 - 7 hrs,Good,No,Yes,Yes,No
+211,25 - 30 years,Male,Student,Oppo,NA | Gaming | Entertainment | NA | NA | NA,Yes,No,No,No,No,No,No,Disagree,5 - 7 hrs,Good,No,Yes,Don't Have,Don't Care
+212,45 - 50 years,Male,Business,Oppo,NA | NA | NA | NA | NA | Work,Yes,No,No,No,No,No,No,Agree,5 - 7 hrs,Okish,No,Yes,No,Yes
+213,50 - 60 years,Female,Teaching,RealMe,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,Yes,Yes,No,No,No,Yes,No,Agree,<4 hrs,Okish,"Yes, old",Yes,Yes,Sometimes
+214,20 - 25 years,Female,Student,Vivo,NA | NA | Entertainment | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,<4 hrs,Don't Care,"Yes, degrade",May be,Sometimes,Sometimes
+215,25 - 30 years,Male,Engineer,Asus,Social_Media | NA | Entertainment | NA | NA | NA,Yes,No,Yes,Yes,Yes,No,No,Agree,8 - 10 hrs.,Good,No,Yes,Sometimes,No
+216,40 - 45 years,Male,IT,Apple,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,Yes,Yes,Yes,No,Yes,No,No,Don't Care,5 - 7 hrs,Good,No,May be,Sometimes,No
+217,45 - 50 years,Male,Business,RealMe,Social_Media | Gaming | NA | NA | Reading | NA,No,No,No,No,No,Yes,No,Disagree,<4 hrs,Okish,"Yes, SW HW",May be,No,Yes
+218,50 - 60 years,Female,Teaching,MI,NA | NA | NA | NA | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,<4 hrs,Okish,"Yes, for tech",Yes,Don't Have,Sometimes
+219,15 - 20 years,Male,Student,Samsung,NA | NA | NA | NA | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,<4 hrs,Good,No,Yes,Yes,No
+220,40 - 45 years,Female,Teaching,MI,Social_Media | NA | NA | NA | NA | Work,Yes,Yes,Yes,No,No,No,No,Agree,5 - 7 hrs,Good,No,Yes,Don't Have,Sometimes
+221,50 - 60 years,Male,Government sector,Samsung,Social_Media | NA | Entertainment | NA | Reading | NA,Yes,Yes,Yes,No,No,No,Yes,Disagree,One full Day,Good,No,Yes,Don't Have,No
+222,35 - 40 years,Female,Sportsman / athlete,One+,Social_Media | NA | NA | NA | NA | NA,No,No,No,No,No,Yes,No,Agree,<4 hrs,Good,"Yes, for tech",Yes,Sometimes,Don't Care
+223,40 - 45 years,Male,Business,Motorola,Social_Media | NA | NA | NA | Reading | NA,Yes,No,Yes,Yes,No,No,No,Disagree,One full Day,Good,No,"No, I'm OK",No,No
+224,35 - 40 years,Female,Business,Asus,Social_Media | NA | NA | Productivity | Reading | Work,Yes,No,Yes,No,Yes,No,No,Agree,One full Day,Good,No,Yes,Sometimes,Sometimes
+225,35 - 40 years,Female,NA,Vivo,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,No,No,No,No,No,Disagree,5 - 7 hrs,Don't Care,"Yes, SW HW",Yes,Don't Have,Don't Care
+226,45 - 50 years,Male,Engineer,One+,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,No,No,No,No,No,Don't Care,One full Day,Good,"Yes, degrade",Yes,No,Don't Care
+227,20 - 25 years,Female,Teaching,Apple,Social_Media | Gaming | Entertainment | NA | NA |NA,Yes,Yes,Yes,No,No,No,Yes,Disagree,<4 hrs,Okish,"Yes, for tech",Yes,Yes,No
+228,40 - 45 years,Female,Teaching,MI,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,No,No,Yes,No,No,Agree,8 - 10 hrs.,Good,"Yes, for tech",Yes,Sometimes,No
+229,40 - 45 years,Female,Teaching,MI,Social_Media | NA | NA | NA | NA | Work,No,No,Yes,No,No,No,No,Agree,8 - 10 hrs.,Good,No,Yes,No,No
+230,10 - 15 years,Female,School Student,MI,NA | NA | Entertainment | Productivity | NA | Work,Yes,No,Yes,Yes,No,No,No,Agree,8 - 10 hrs.,Good,No,Yes,Sometimes,No
+231,40 - 45 years,Male,IT,Lenovo,Social_Media | NA | NA | Productivity | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Good,"Yes, SW HW",Yes,Yes,Sometimes
+232,50 - 60 years,Female,Teaching,MI,NA | NA | NA | Productivity | NA | NA | NA,Yes,Yes,Yes,No,No,No,Yes,Agree,8 - 10 hrs.,Okish,No,Yes,No,No
+233,40 - 45 years,Female,Interior Designer,MI,Social_Media | NA | NA | Productivity | NA | NA,Yes,Yes,No,No,No,Yes,No,I know,<4 hrs,Good,No,"No, I'm OK",Don't Have,Don't Care
+234,45 - 50 years,Male,Teaching,MI,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,Yes,No,No,No,Agree,One full Day,Good,"Yes, for tech",Yes,Sometimes,Yes
+235,40 - 45 years,Female,Other,Samsung,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,One Day+,Good,"Yes, old",Yes,Don't Have,Don't Care
+236,50 - 60 years,Male,Teaching,Oppo,Social_Media | NA | NA | Productivity | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Disagree,5 - 7 hrs,Good,No,Yes,Sometimes,Sometimes
+237,40 - 45 years,Female,Teaching,Vivo,NA | NA | NA | NA | Reading | NA,Yes,Yes,No,Yes,No,No,No,Agree,5 - 7 hrs,Good,No,Yes,Yes,No
+238,45 - 50 years,Male,Teaching,Vivo,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,<4 hrs,Good,No,Yes,Yes,Yes
+239,35 - 40 years,Female,Teaching,Samsung,NA | NA | NA | NA | Reading | NA,Yes,No,No,No,No,No,Yes,Disagree,8 - 10 hrs.,Good,No,"No, I'm OK",Don't Have,Don't Care
+240,45 - 50 years,Male,IT,Samsung,NA | NA | NA | Productivity | Reading | NA,Yes,No,No,Yes,Yes,No,Yes,Don't Care,5 - 7 hrs,Good,No,Yes,Sometimes,No
+241,50 - 60 years,Male,Teaching,MI,Social_Media | NA | NA | NA | NA | Work,No,No,No,Yes,No,No,No,Agree,5 - 7 hrs,Bad,No,Yes,Sometimes,Yes
+242,35 - 40 years,Female,Private sector,Vivo,Social_Media | NA | Entertainment | Productivity | Reading | Work,Yes,No,Yes,No,No,No,Yes,Agree,5 - 7 hrs,Good,No,Yes,Sometimes,Sometimes
+243,30 - 35 years,Male,Business,Samsung,NA | NA | NA | Productivity | NA | NA | NA,Yes,Yes,Yes,No,No,No,Yes,Agree,One full Day,Good,"Yes, SW HW",May be,Sometimes,Don't Care
+244,35 - 40 years,Female,Government sector,Gionee,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,No,Yes,No,No,Disagree,5 - 7 hrs,Bad,"Yes, for tech",Yes,No,Don't Care
+245,50 - 60 years,Female,Teaching,Samsung,Social_Media | NA | NA | NA | NA | NA,No,No,Yes,No,No,No,No,Disagree,8 - 10 hrs.,Good,No,May be,Don't Have,Don't Care
+246,35 - 40 years,Male,HR,Samsung,Social_Media | Gaming | Entertainment | Productivity | Reading | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,8 - 10 hrs.,Good,"Yes, for tech",Yes,No,Don't Care
+247,30 - 35 years,Male,Management ,Samsung,Social_Media | NA | NA | Productivity | NA | NA,Yes,No,Yes,No,No,No,No,Disagree,5 - 7 hrs,Good,No,Yes,Don't Have,Yes
+248,30 - 35 years,Male,IT,MI,NA | NA | NA | Productivity | Reading | NA,No,No,Yes,No,No,No,No,Agree,8 - 10 hrs.,Good,"Yes, for tech","No, I'm OK",Sometimes,No
+249,30 - 35 years,Male,NoMInal Job,RealMe,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,No,No,No,Yes,No,Disagree,5 - 7 hrs,Good,"Yes, for tech","No, I'm OK",Sometimes,Sometimes
+250,50 - 60 years,Male,NA,Lenovo,Social_Media | NA | NA | NA | Reading | NA,No,No,Yes,No,No,Yes,No,Disagree,8 - 10 hrs.,Don't Care,"Yes, SW HW","No, I'm OK",No,No
+251,50 - 60 years,Female,NoMInal Job,Samsung,Social_Media | NA | NA | NA | NA | NA,No,Yes,No,No,No,No,Yes,Disagree,One full Day,Good,No,"No, I'm OK",Don't Have,Yes
+252,20 - 25 years,Male,Student,One+,Social_Media | Gaming | Entertainment | NA | NA |NA,No,No,Yes,Yes,No,No,Yes,Disagree,5 - 7 hrs,Good,"Yes, SW HW",May be,No,No
+253,20 - 25 years,Female,Student,Oppo,Social_Media | Gaming | Entertainment | Productivity | NA | NA,Yes,Yes,Yes,No,No,No,Yes,Disagree,<4 hrs,Good,No,Yes,Don't Have,Yes
+254,15 - 20 years,Male,Engineer,Samsung,Social_Media | NA | Entertainment | NA | NA | NA,Yes,Yes,Yes,No,No,No,Yes,Disagree,<4 hrs,Okish,No,Yes,Sometimes,No
+255,20 - 25 years,Male,Commerce,Samsung,Social_Media | NA | NA | NA | NA | Work,Yes,No,Yes,Yes,No,Yes,No,Disagree,8 - 10 hrs.,Good,"Yes, SW HW",Yes,Sometimes,Yes
+256,20 - 25 years,Male,Student,Oppo,Social_Media | Gaming | NA | NA | Reading | NA,No,No,Yes,Yes,No,No,No,I know,5 - 7 hrs,Okish,No,Yes,No,Yes
+257,20 - 25 years,Male,Student,Samsung,NA | NA | Entertainment | NA | NA | NA,No,Yes,Yes,Yes,No,No,No,Agree,5 - 7 hrs,Okish,"Yes, degrade","No, I'm OK",Yes,No
+258,20 - 25 years,Male,Engineer,Oppo,Social_Media | Gaming | Entertainment | Productivity | NA | Work,Yes,Yes,Yes,No,No,No,Yes,Agree,<4 hrs,Good,No,Yes,Don't Have,Sometimes
+259,20 - 25 years,Female,Student,MI,Social_Media | NA | NA | NA | NA | NA,Yes,Yes,Yes,No,Yes,No,No,Agree,8 - 10 hrs.,Good,No,"No, I'm OK",No,Sometimes
+260,20 - 25 years,Male,Unemployed,Samsung,Social_Media | Gaming | Entertainment | NA | NA |NA,Yes,Yes,Yes,No,No,No,Yes,Don't Care,5 - 7 hrs,Okish,"Yes, for tech",May be,Don't Have,Yes
+261,20 - 25 years,Female,Student,Apple,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,No,No,Yes,No,Disagree,5 - 7 hrs,Okish,No,Yes,Sometimes,Sometimes
+262,20 - 25 years,Male,NoMInal Job,One+,Social_Media | NA | NA | NA | Reading | NA,Yes,No,Yes,No,Yes,No,No,Disagree,5 - 7 hrs,Okish,No,Yes,Don't Have,Sometimes
+263,20 - 25 years,Male,Student,MI,Social_Media | NA | Entertainment | Productivity | Reading | Work,Yes,No,Yes,Yes,Yes,No,No,Agree,8 - 10 hrs.,Good,"Yes, old","No, I'm OK",No,No
+264,20 - 25 years,Male,Student,Samsung,Social_Media | NA | NA | NA | NA | NA,Yes,No,Yes,No,No,No,No,Disagree,<4 hrs,Okish,No,May be,Yes,Yes
+265,20 - 25 years,Male,Student,RealMe,NA | NA | Entertainment | NA | Reading | NA |,No,No,Yes,No,No,Yes,No,Agree,5 - 7 hrs,Okish,No,Yes,Don't Have,Don't Care
+266,20 - 25 years,Male,Student,MI,Social_Media | NA | NA | NA | NA | NA,Yes,No,No,No,No,No,No,Agree,5 - 7 hrs,Don't Care,"Yes, SW HW",May be,Sometimes,Don't Care
+267,20 - 25 years,Female,Unemployed,One+,NA | NA | NA | Productivity | NA | NA | NA,No,No,Yes,No,No,No,No,Agree,5 - 7 hrs,Don't Care,No,Yes,Don't Have,No
+268,20 - 25 years,Female,Artist,Honor,Social_Media | NA | NA | NA | NA | NA,No,No,No,Yes,No,No,No,Disagree,8 - 10 hrs.,Good,No,May be,Sometimes,No
+269,20 - 25 years,Male,Student,Apple,Social_Media | NA | Entertainment | Productivity | NA | NA | NA ,Yes,Yes,Yes,No,No,No,Yes,I know,<4 hrs,Good,No,Yes,No,Yes
+270,25 - 30 years,Male,IT,Apple,NA | Gaming | NA | Productivity | NA | NA,No,No,No,Yes,No,Yes,No,Disagree,One full Day,Good,No,"No, I'm OK",Don't Have,Don't Care
